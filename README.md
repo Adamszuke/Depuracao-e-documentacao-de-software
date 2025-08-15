@@ -6,6 +6,6 @@
 - Apresentação do curso apenas
 
 ## <a href="./Bi3/Aula2/Aula2.md">Aula 2</a>
-12/08/2025
-- Explicação do <a href="./Bi3/Trabalho/Trabalho.md">Trabalho</a>
+14/08/2025
+- Testes de código
 
